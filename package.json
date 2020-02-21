@@ -1,0 +1,13 @@
+{
+    "name": "react-foo-ref",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "mdx-deck deck.mdx"
+    },
+    "dependencies": {
+        "mdx-deck": "^4.0.0",
+        "theme-ui": "^0.3.1"
+    }
+}
